@@ -30,6 +30,12 @@ export const about = {
       detail: 'OOP (Java) · C & C++ · Data Structures & Algorithms (Python)',
     },
     {
+      school: 'Universitat d Alacant',
+      degree: 'Diploma in Spanish Level 1',
+      period: 'Dec 2025-Dec 2025',
+      detail: 'Attained 74/100 for Spanish Level 1 exam during NTU Gem Discoverer Winter Exchange 2025',
+    },
+    {
       school: 'Singapore Polytechnic',
       degree: 'Diploma in Computer Engineering',
       period: '2020–2023',
@@ -190,13 +196,14 @@ export const certifications = [
   { name: 'Google UX Design', year: '2022' },
   { name: 'Google IT Support', year: '2022' },
   { name: 'CSIT Diploma Scholarship', year: '2021–2023' },
-  { name: 'And more · currently pursuing AWS Skill Builder badges', year: 'Ongoing', pending: true },
+  { name: 'And more · Currently pursuing AWS Skill Builder badges', year: 'Ongoing', pending: true },
 ]
 
 export const leadership = [
-  { role: 'Chief Group Leader', org: 'CCDS Transitional Orientation Programme', detail: 'Directs 10 orientation leaders onboarding 1,000+ freshmen.' },
-  { role: 'Chief Programmer (Event Logic)', org: 'Hall 6 Night Cycling', detail: 'Event flow + gamification mechanics for 200+ participants.' },
   { role: 'Exco Member', org: 'CDAC Youth Club', detail: 'Jan 2026–Present · youth community programmes and leadership.' },
+  { role: 'Sports & Clubs', org: 'Hall 6 · NTU', detail: 'Ultimate frisbee, floorball, volleyball · Hall 6 JCRC Events Subcommittee.' },
+  { role: 'Chief Group Leader', org: 'CCDS Transitional Orientation Programme', detail: 'Directs 10 orientation leaders onboarding 1,000+ freshmen.' },
+  { role: 'Chief Programmer (Event Logic)', org: 'Hall 6 Night Cycling', detail: 'Sept 2025-Present · Event flow + gamification mechanics for 200+ participants.' },
+  { role: 'Facilitator', org: 'Singapore Polytechnic', detail: 'Lead 40 + secondary school leaders for SP Leadership Experential & Development Camp 2022' },
   { role: 'Class Chairperson', org: 'Singapore Polytechnic', detail: '2020–2021 · represented and coordinated the cohort.' },
-  { role: 'Sports & Clubs', org: 'Hall 6 · NTU', detail: 'Ultimate frisbee, floorball, volleyball · Hall 6 JCRC Subcommittee.' },
 ]
