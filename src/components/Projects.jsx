@@ -78,7 +78,7 @@ export default function Projects() {
       </div>
 
       <div className="also-built panel reveal" id="also-built">
-        <span className="panel-label mono">ALSO BUILT · FULL REPO INDEX, AND COUNTING</span>
+        <span className="panel-label mono">ALSO BUILT</span>
         <ul className="also-built-list">
           {alsoBuilt.map((repo) => (
             <li key={repo.url}>
