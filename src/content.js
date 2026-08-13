@@ -49,7 +49,7 @@ export const experience = [
     id: 'EXP-04',
     org: 'CrimsonWorks Solutions',
     role: 'Salesforce CRM System Analyst (Intern)',
-    period: 'May 2026–Present',
+    period: 'May 2026–Jul 2026',
     location: 'Singapore · Hybrid',
     points: [
       'Configured 50+ custom objects, workflows and validation rules for scalable Salesforce Cloud solutions.',
@@ -188,7 +188,6 @@ export const certifications = [
   { name: 'Google Digital Marketing & E-Commerce', year: '2026' },
   { name: 'Google Advanced Data Analytics', year: '2026' },
   { name: 'Google Business Intelligence', year: '2026' },
-  { name: 'Salesforce Certified Platform Administrator', year: 'est. Jul 2026', pending: true },
   { name: '10-Year Long Service Award · CDAC', year: '2013–Present' },
   { name: 'AWS Certified Cloud Practitioner', year: '2022' },
   { name: 'Google IT Automation with Python', year: '2022' },
@@ -196,7 +195,6 @@ export const certifications = [
   { name: 'Google UX Design', year: '2022' },
   { name: 'Google IT Support', year: '2022' },
   { name: 'CSIT Diploma Scholarship', year: '2021–2023' },
-  { name: 'And more · Currently pursuing AWS Skill Builder badges', year: 'Ongoing', pending: true },
 ]
 
 export const leadership = [
