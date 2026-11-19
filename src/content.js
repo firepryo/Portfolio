@@ -12,8 +12,7 @@ export const about = {
   short:
     "Reuben is a 2nd-year Computer Science undergraduate at NTU and an aspiring Cybersecurity / Cloud Architect Engineer. He's built production observability at CSIT, placed 1st in a Google hardware CTF, and ships AI-powered products, pairing cloud-and-security depth with a builder's love of hackathons.",
   full: [
-    "I'm Reuben, a 2nd Year Computer Science undergraduate at Nanyang Technological University and an aspiring Cybersecurity / Cloud Architect Engineer. My path runs from a Diploma in Computer Engineering and a CSIT cloud infrastructure internship, where I built production Prometheus and Grafana observability that cut incident response time and cloud costs, through national service as a Section 2IC leading a team of seven, to a current Salesforce analyst internship and a run of hackathons and CTFs, including a 1st-place finish at a Google hardware Capture-The-Flag.",
-    'Inspired by the belief that "you can never get too comfortable," I keep pushing into new territory: cloud architecture, security, and AI-powered products. Outside tech, I lead orientation for 1,000+ freshmen, program large-scale hall events, play various sports, and consistently volunteer in my community for over a decade and counting.',
+    "2nd Year Computer Science undergraduate at NTU (Diploma in Computer Engineering, Singapore Polytechnic) building reliable cloud infrastructure. As a Cloud Infrastructure Engineer intern at CSIT, I compared Splunk against Prometheus and Grafana, then implemented the monitoring setup that followed, reducing MTTR by 20% and cloud operating costs by 30%. Most recently, as a Salesforce CRM System Analyst intern at Crimsonworks Solutions, I configured 50+ custom objects, workflows, and validation rules, cleansed 100+ records with Data Loader and Excel before migration, and resolved 50+ bugs during UAT so user stories shipped on schedule. I test my skills under pressure. I won 1st place out of 20 teams at the Google Hardware Hackathon (a Google data center simulation), and I compete in CTFs and hackathons including DSTA Brainhack, CSIT TISC, AWS Build-on, and Geekout. Outside tech, I’m Sports Director at the NTU Students’ Computing and Data Science Club, where I led a 25-member committee to launch the school’s first game nights and night cycling events, and a community volunteer with CDAC. I’m looking for internships from May to Dec 2027 in cloud and infrastructure engineering, cyber security, or software engineering.',
   ],
   stats: [
     { value: '1st', label: 'Google Hardware CTF · 20 teams' },
@@ -198,6 +197,8 @@ export const certifications = [
 ]
 
 export const leadership = [
+  { role: 'Exco Member, Sports Director', org: 'Students Computing and Data Science Club (SCDS)', detail: 'Sept 2026–Present · Forefront of Sports Culture in CCDS, leading a team of 25 members.' },
+  { role: 'Exco Member, Head of Programmes', org: 'College of Computing and Data Science (CCDS) Transitional Orientation Programmw (TOP) 2027', detail: 'Oct 2026–Present · Event flow + gamification mechanics for 1000+ freshmen, leading a team of 80+ programmers.' },
   { role: 'Exco Member', org: 'CDAC Youth Club', detail: 'Jan 2026–Present · youth community programmes and leadership.' },
   { role: 'Sports & Clubs', org: 'Hall 6 · NTU', detail: 'Ultimate frisbee, floorball, volleyball · Hall 6 JCRC Events Subcommittee.' },
   { role: 'Chief Group Leader', org: 'CCDS Transitional Orientation Programme', detail: 'Directs 10 orientation leaders onboarding 1,000+ freshmen.' },
