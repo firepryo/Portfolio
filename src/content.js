@@ -202,9 +202,8 @@ export const certifications = [
 
 export const leadership = [
   { role: 'Exco Member, Sports Director', org: 'Students Computing and Data Science Club (SCDS)', detail: 'Sept 2026–Present · Forefront of Sports Culture in CCDS, leading a team of 25 members.' },
-  { role: 'Exco Member, Head of Programmes', org: 'College of Computing and Data Science (CCDS) Transitional Orientation Programmw (TOP) 2027', detail: 'Oct 2026–Present · Event flow + gamification mechanics for 1000+ freshmen, leading a team of 80+ programmers.' },
+  { role: 'Exco Member, Head of Programmes', org: 'CCDS Transitional Orientation Programme (TOP) 2027', detail: 'Oct 2026–Present · Event flow + gamification mechanics for 1000+ freshmen, leading a team of 80+ programmers.' },
   { role: 'Exco Member', org: 'CDAC Youth Club', detail: 'Jan 2026–Present · youth community programmes and leadership.' },
-  { role: 'Sports & Clubs', org: 'Hall 6 · NTU', detail: 'Ultimate frisbee, floorball, volleyball · Hall 6 JCRC Events Subcommittee.' },
   { role: 'Chief Group Leader', org: 'CCDS Transitional Orientation Programme', detail: 'Directs 10 orientation leaders onboarding 1,000+ freshmen.' },
   { role: 'Chief Programmer (Event Logic)', org: 'Hall 6 Night Cycling', detail: 'Sept 2025-Present · Event flow + gamification mechanics for 200+ participants.' },
   { role: 'Facilitator', org: 'Singapore Polytechnic', detail: 'Lead 40 + secondary school leaders for SP Leadership Experential & Development Camp 2022' },
